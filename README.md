@@ -6,6 +6,7 @@
 
 ![](zadanie.jpg)
 
+```
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
@@ -49,7 +50,7 @@ int main()
 	printf("Результат b=%.4f\n", b);
 	return 0;
 }
-
+```
 
 ![](schema2.jpg)
 
